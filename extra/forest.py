@@ -56,5 +56,5 @@ elif choice_fork.lower() == "straight":
 else:
     print("Invalid choice. You stand there confused until the forest swallows you whole.")
     print("Game Over.")
-# The game ends here. You can add more choices and paths to make it more complex and interesting.   
+# The game ends here.   
 
