@@ -12,9 +12,11 @@ This repo includes my daily challenges, practice projects, and notes as I learn 
 |-----|-----------------------|-------|
 | 1   | Band Name Generator   | Print, variables |
 | 2   | Tip Calculator        | Math, input |
-| 3   | BMI Calculator, Life in Weeks, Climate Advisor | Conditionals |
+| 3   | BMI Calculator       | Conditionals |
 | 4   | Rock Paper Scissors   | Randomisation, Lists |
 | 5   | Password Generator    | Loops (for, range) |
+| 6   | Reeborg’s Maze       | While Loop |
+| 7   | Hangman              | Nesting, Loops |
 
 _(Updated as I go. Expect chaos.)_
 
